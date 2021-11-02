@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rajgami/CLionProjects/Computer_Graphics/2D_House/main.cpp
+GL/glut.h
+-
+cmath
+/home/rajgami/CLionProjects/Computer_Graphics/2D_House/cmath
+

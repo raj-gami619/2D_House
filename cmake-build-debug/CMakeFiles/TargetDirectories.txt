@@ -1,0 +1,3 @@
+/home/rajgami/CLionProjects/Computer_Graphics/2D_House/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rajgami/CLionProjects/Computer_Graphics/2D_House/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rajgami/CLionProjects/Computer_Graphics/2D_House/cmake-build-debug/CMakeFiles/2D_House.dir

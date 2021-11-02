@@ -1,0 +1,4 @@
+/home/rajgami/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/rajgami/CLionProjects/Computer_Graphics/2D_House
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rajgami/CLionProjects/Computer_Graphics/2D_House/cmake-build-debug
